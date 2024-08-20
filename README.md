@@ -1,1 +1,1 @@
-# simple-web-apps-python
+# simple-python-apps
